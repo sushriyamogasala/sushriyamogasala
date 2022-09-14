@@ -107,7 +107,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l3dc3erunrmqpefw6mo7vfm2de&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31l3dc3erunrmqpefw6mo7vfm2de&redirect=true) 
   
 
 <br/>  
