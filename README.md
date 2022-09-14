@@ -1,7 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
+![greetings](https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
 ### <div align="center">I'm Sushriya, a full-stack developer 👩🏻‍💻 and a machine learning enthusiast 🚀</div>  
   
