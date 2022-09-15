@@ -100,11 +100,11 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=sushriyamogasala&show_icons=true&count_private=true&hide_border=true" /> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushriyamogasala&show_icons=true&theme=react)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast)](https://github.com/sushriyamogasala/github-readme-streak-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia)
 <br>
 
 ## Peace😌✌🏻
