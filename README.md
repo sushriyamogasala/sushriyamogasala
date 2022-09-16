@@ -1,7 +1,9 @@
 
 ![greetings](https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
-### <div align="center">I'm Sushriya, a full-stack developer 👩🏻‍💻 and a machine learning enthusiast 🚀</div>  
+#### <div align="center"><a href="url"><img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" height="75" width="78" ></a>Stranger😎 , I'm <font size="3">[Sushriya](https://github.com/sushriyamogasala)</font>
+</div>
+### <div align="center">I'm a full-stack developer 👩🏻‍💻 and a machine learning enthusiast 🚀</div>  
   
 
 - 🔭 I’m currently working on machine learning projects  
@@ -94,6 +96,7 @@
 <a href="https://stackoverflow.com/users/sushriya-mogasala" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
+ 
 </div>  
   
 
