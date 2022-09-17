@@ -1,23 +1,21 @@
 
 ![greetings](https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
-#### <div align="center"><a href="url"><img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" height="75" width="78" ></a>Stranger😎 , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)</font>
+#### <div align="center"><a href="url"><img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" height="75" width="78" ></a>Stranger  😎  , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)</font>
 </div>
 
 ### <div align="center">I'm a full-stack developer 👩🏻‍💻 and a machine learning enthusiast 🚀</div>  
   
 
-- 🔭 I’m  working on machine learning projects 
+- 🔭 I’m currently working on machine learning projects 
   
 - 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson
 
-- 🌱 I’m currently learning Web development and enhancing my coding skills   <a href="url"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="23" width="50" ></a>
+- 🌱 I’m presently learning Web development and enhancing my coding skills   <a href="url"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="23" width="43" ></a>
  
   
 - 💞️ I’m looking to collaborate on Web development and Python projects
-
-
-- 
+ 
 
 - 📫 How to reach me sushriya1009@gmail.com
 
@@ -31,7 +29,7 @@
 <br/>  
 
 
-## 💼My Skill Set  
+## 💼 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -77,7 +75,7 @@
 <br/>  
 
 
-## 💫Connect with me  
+## 💫 Connect with me  
 <div align="center">
 <a href="https://github.com/sushriyamogasala" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -107,7 +105,7 @@
 <br/>  
 
 
-## 📈GitHub Stats  
+## 📈 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushriyamogasala&show_icons=true&theme=react)
 
 
@@ -115,14 +113,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia)
 <br>
 
-## Peace😌✌🏻
+## Peace 😌✌🏻
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l3dc3erunrmqpefw6mo7vfm2de&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
-#### <div align="center">Glad to see you visitors😇</div>
+#### <div align="center">Glad to see you visitors 😇</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" />
 </div>  
