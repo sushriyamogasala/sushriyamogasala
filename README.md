@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif" alt="Hi" width="1000" height="500">
+<img align="center" src="https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif" alt="Hi" width="1000" height="500">
 
 [//]: <> (https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
@@ -14,7 +14,7 @@
 - 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson
 
 - 🌱 I’m presently learning Web development and enhancing my coding skills   
-- 
+ 
 [//]: <> (https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif)
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
 - 💞️ I’m looking to collaborate on Web development and Python projects
