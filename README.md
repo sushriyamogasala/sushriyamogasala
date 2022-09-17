@@ -9,14 +9,15 @@
 
 - 🔭 I’m  working on machine learning projects 
   
-- 🌱 I’m currently learning Web development and enhancing my coding skills   <a href="url"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="30" width="50" ></a>
+- 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson
+
+- 🌱 I’m currently learning Web development and enhancing my coding skills   <a href="url"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="23" width="50" ></a>
  
   
 - 💞️ I’m looking to collaborate on Web development and Python projects
 
 
-- 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson
-
+- 
 
 - 📫 How to reach me sushriya1009@gmail.com
 
