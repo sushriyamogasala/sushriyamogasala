@@ -20,7 +20,8 @@
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
 - 💞️ I’m looking to collaborate on Web development and Python projects
  
-
+- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) 
+ 
 - 📫 How to reach me sushriya1009@gmail.com
 
 
