@@ -20,7 +20,7 @@
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
 - 💞️ I’m looking to collaborate on Web development and Python projects
  
-- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="15" height="15">
+- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="19" height="19">
  
 - 📫 How to reach me sushriya1009@gmail.com
 
