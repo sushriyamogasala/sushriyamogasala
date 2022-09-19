@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif" alt="Hi" width="1000" height="500">
+<img align="center" src="https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif" alt="Hi" width="1000" height="400">
 
 [//]: <> (https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
@@ -7,7 +7,7 @@
 <br>
 
 ### <div align="center">I'm a full-stack developer <a href="url"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="23" width="43" ></a> and a machine learning enthusiast 🚀</div>  
-  <br>
+  
   
   <img align="right" src="https://anubudh.com/wp-content/uploads/2021/10/20860-person-on-laptop-working-on-laptop.gif" width="370" height="330">
 <br> 
