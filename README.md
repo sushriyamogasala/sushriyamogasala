@@ -118,7 +118,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sushriyamogasala?cardType=github&theme=react&Border=0C66DDAF&Text=FFFFFFFE)](https://github.com/sushriyamogasala)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast)](https://github.com/sushriyamogasala/github-readme-streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia&layout=compat)
 <br>
 
 ## Peace 😌✌🏻
@@ -134,6 +134,7 @@
 
 #### <div align="center">Glad to see you visitors 😇</div>
 <div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" />
 </div>  
   
