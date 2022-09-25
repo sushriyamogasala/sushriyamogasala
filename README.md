@@ -113,8 +113,9 @@
 <br/>  
 
 
-## GitHub Stats 📊  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sushriyamogasala?cardType=octocat&theme=monokai&Background=071784&Title=D6F9FE&Ring=97DBDD&Border=0C66DDAF&Text=FFFFFFFE)](https://github.com/sushriyamogasala)
+## GitHub Stats 📊 
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sushriyamogasala?cardType=github&theme=monokai&Background=071784&Title=D6F9FE&Ring=97DBDD&Border=0C66DDAF&Text=FFFFFFFE)](https://github.com/sushriyamogasala)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast)](https://github.com/sushriyamogasala/github-readme-streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia)
