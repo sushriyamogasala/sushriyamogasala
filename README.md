@@ -2,7 +2,7 @@
 
 [//]: <> (https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
-#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" alt="hello" ></a>Stranger , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)<img src="./emoji.gif" alt="emoji" width="27" height="25"></font>
+#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" alt="hello" ></a>Stranger , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)  <img src="./emoji.gif" alt="emoji" width="26" height="20"></font>
 </div>
 <br>
 
