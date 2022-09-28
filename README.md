@@ -10,6 +10,8 @@
   
   
   <img align="right" src="./me.gif" width="370" height="330">
+  
+[//]: <> (https://anubudh.com/wp-content/uploads/2021/10/20860-person-on-laptop-working-on-laptop.gif)
 <br> 
 
 - 🔭 I’m currently working on machine learning projects 
