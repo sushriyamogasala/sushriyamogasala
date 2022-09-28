@@ -1,15 +1,15 @@
-<img oncontextmenu="return false" align="center" src="./greetings.gif" alt="Hi" width="900" height="400">
+<img oncontextmenu="return false" align="center" src="./greetings.gif" alt="greetings" width="900" height="400">
 
 [//]: <> (https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
-#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" ></a>Stranger  😎  , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)</font>
+#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" alt="hello" ></a>Stranger  😎  , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)</font>
 </div>
 <br>
 
-### <div align="center">I'm a full-stack developer <a href="url"><img src="./typing.gif" height="23" width="43" ></a> and a machine learning enthusiast 🚀</div>  
+### <div align="center">I'm a full-stack developer <a href="url"><img src="./typing.gif" height="23" width="43" alt="typing" ></a> and a machine learning enthusiast 🚀</div>  
   
   
-  <img align="right" src="./me.gif" width="370" height="330">
+  <img align="right" src="./me.gif" width="370" height="330" alt="developer">
   
 [//]: <> (https://anubudh.com/wp-content/uploads/2021/10/20860-person-on-laptop-working-on-laptop.gif)
 <br> 
@@ -23,16 +23,16 @@
 [//]: <> (https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif)
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
 
-- <img align="left" src="./images/collaborate.gif" width="20" height="20"> I’m looking to collaborate on Web development and Python projects
+- <img align="left" src="./images/collaborate.gif" width="20" height="20" alt="collab"> I’m looking to collaborate on Web development and Python projects
  
-- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="./linkedin.gif" width="19" height="19">
+- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="./linkedin.gif" width="19" height="19" alt="linkedin">
  
-- <img align="left" src="./images/letterbox.gif" width="30" height="30">  How to reach me sushriya1009@gmail.com
+- <img align="left" src="./images/letterbox.gif" width="30" height="30" alt="letterbox">  How to reach me sushriya1009@gmail.com
 
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-- <img src="./music.gif" width="35" height="35" alt="roll"> I enjoy listening music 🎧 play badminton 🏸 and traveling <img src="./travevl.gif" width="35" height="35">
+- <img src="./music.gif" width="35" height="35" alt="dance"> I enjoy listening music 🎧 play badminton 🏸 and traveling <img src="./travevl.gif" width="35" height="35" alt="travel">
 
 - ⚡ Fun fact: I speak 4 languages ( English, Telugu, Hindi, French )  
   
@@ -129,21 +129,21 @@
 ## Peace 😌✌🏻
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l3dc3erunrmqpefw6mo7vfm2de&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l3dc3erunrmqpefw6mo7vfm2de&cover_image=true&theme=default" alt="you should be seeing my spotify recently played music"/></div>  
 
 <br/>  
 
 ## Quote for you 👀
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"> </div>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Randome quote for you"> </div>
 
 ##  Activity Graph 📈
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)
 
-#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="50" height="30"> </div>
+#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="50" height="30" alt="handshakegif> </div>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" alt="profileviewcount/>
 </div>  
   
 
