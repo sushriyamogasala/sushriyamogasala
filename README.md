@@ -32,7 +32,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-- <img src="./music.gif" width="35" height="35" alt="dance"> I enjoy listening music 🎧 play badminton 🏸 and traveling <img src="./travevl.gif" width="35" height="35" alt="travel">
+- <img src="./music.gif" width="35" height="35" alt="dance"> I enjoy listening music 🎧 playing badminton 🏸 and traveling <img src="./travevl.gif" width="35" height="35" alt="travel">
 
 - ⚡ Fun fact: I speak 4 languages ( English, Telugu, Hindi, French )  
   
