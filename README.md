@@ -140,10 +140,10 @@
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)
 
-#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="50" height="30" alt="handshakegif> </div>
+#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="50" height="30" alt="handshakegif"> </div>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" alt="profileviewcount/>
+<img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" alt="profileviewcount">
 </div>  
   
 
