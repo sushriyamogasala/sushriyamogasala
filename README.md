@@ -134,7 +134,7 @@
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)
 
-#### <div align="center">Glad to see you visitors 😇</div>
+#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="65" height="35"> </div>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" />
