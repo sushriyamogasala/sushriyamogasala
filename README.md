@@ -20,11 +20,12 @@
  
 [//]: <> (https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif)
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
-- 💞️ I’m looking to collaborate on Web development and Python projects
+
+- <img align="left" src="./images/collaborate.gif" width="18" height="19">I’m looking to collaborate on Web development and Python projects
  
 - 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="19" height="19">
  
-- 📫 How to reach me sushriya1009@gmail.com
+- <img align="left" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/letterbox.gif" width="30" height="30">  How to reach me sushriya1009@gmail.com
 
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
