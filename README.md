@@ -85,7 +85,7 @@
 <br/>  
 
 
-## Connect with me 🌏
+## Connect with me <img src="./earth.gif" width="25" height="25">
 <div align="center">
 <a href="https://github.com/sushriyamogasala" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -134,7 +134,7 @@
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)
 
-#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="65" height="40"> </div>
+#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="50" height="30"> </div>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" />
