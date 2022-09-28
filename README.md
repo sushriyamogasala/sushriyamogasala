@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on machine learning projects 
   
-- 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson/Lead
+- 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson/Lead 🛡️
 
 - 🌱 I’m presently learning Web development and enhancing my coding skills   
  
