@@ -21,7 +21,7 @@
 [//]: <> (https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif)
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
 
-- <img align="left" src="./images/collaborate.gif" width="18" height="19">I’m looking to collaborate on Web development and Python projects
+- <img align="left" src="./images/collaborate.gif" width="20" height="20"> I’m looking to collaborate on Web development and Python projects
  
 - 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="19" height="19">
  
@@ -30,6 +30,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
+- <img src="https://c.tenor.com/3_xuAnSNMg0AAAAi/little-bad-bear-dancing-listening.gif" width="30" height="25" alt="roll"> I enjoy listening music 🎧 play badminton 🏸 and traveling <img src="https://c.tenor.com/8_9g7V0J-i0AAAAi/mochi-cute.gif" width="28" height="28">
 
 - ⚡ Fun fact: I speak 4 languages ( English, Telugu, Hindi, French )  
   
