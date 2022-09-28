@@ -122,7 +122,7 @@
 
 ![My awesome stats](https://github-readme-stats.vercel.app/api?username=sushriyamogasala&theme=dark&hide_border=false&show_icons=true&icon_color=FFFFFFE)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast)](https://github.com/sushriyamogasala/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast&ring=MEDIUMBLUE&currStreakLabel=AZURE&currStreakNum=Turquoise&sideLabels=AQUA&fire=GhostWhite)](https://github.com/sushriyamogasala/github-readme-streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia&layout=compat)
 <br>
 
