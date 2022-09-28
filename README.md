@@ -1,12 +1,12 @@
-<img oncontextmenu="return false" align="center" src="https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif" alt="Hi" width="900" height="400">
+<img oncontextmenu="return false" align="center" src="./greetings.gif" alt="Hi" width="900" height="400">
 
 [//]: <> (https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
-#### <div align="center"><a href="url"><img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" height="75" width="78" ></a>Stranger  😎  , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)</font>
+#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" ></a>Stranger  😎  , I'm <font size="1">[Sushriya](https://github.com/sushriyamogasala)</font>
 </div>
 <br>
 
-### <div align="center">I'm a full-stack developer <a href="url"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="23" width="43" ></a> and a machine learning enthusiast 🚀</div>  
+### <div align="center">I'm a full-stack developer <a href="url"><img src="./typing.gif" height="23" width="43" ></a> and a machine learning enthusiast 🚀</div>  
   
   
   <img align="right" src="./me.gif" width="370" height="330">
@@ -23,14 +23,14 @@
 
 - <img align="left" src="./images/collaborate.gif" width="20" height="20"> I’m looking to collaborate on Web development and Python projects
  
-- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="19" height="19">
+- 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/sushriya-mogasala/) <img src="./linkedin.gif" width="19" height="19">
  
-- <img align="left" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/letterbox.gif" width="30" height="30">  How to reach me sushriya1009@gmail.com
+- <img align="left" src="./images/letterbox.gif" width="30" height="30">  How to reach me sushriya1009@gmail.com
 
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-- <img src="https://c.tenor.com/3_xuAnSNMg0AAAAi/little-bad-bear-dancing-listening.gif" width="30" height="25" alt="roll"> I enjoy listening music 🎧 play badminton 🏸 and traveling <img src="https://c.tenor.com/8_9g7V0J-i0AAAAi/mochi-cute.gif" width="28" height="28">
+- <img src="./music.gif" width="30" height="25" alt="roll"> I enjoy listening music 🎧 play badminton 🏸 and traveling <img src="./travevl.gif" width="28" height="28">
 
 - ⚡ Fun fact: I speak 4 languages ( English, Telugu, Hindi, French )  
   
@@ -134,7 +134,7 @@
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)
 
-#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="65" height="35"> </div>
+#### <div align="center">Glad to see you visitors <img src="./Handshake.gif" width="65" height="40"> </div>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sushriyamogasala&&style=flat-square" align="center" />
