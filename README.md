@@ -9,7 +9,7 @@
 ### <div align="center">I'm a full-stack developer <a href="url"><img src="./typing.gif" height="23" width="43" alt="typing" ></a> and a machine learning enthusiast 🚀</div>  
   
   
-  <img align="right" src="./me.gif" width="380" height="430" alt="developer">
+  <img align="right" src="./me.gif" width="360" height="420" alt="developer">
   
 [//]: <> (https://anubudh.com/wp-content/uploads/2021/10/20860-person-on-laptop-working-on-laptop.gif)
 <br> 
@@ -34,7 +34,7 @@
   
 - <img src="./music.gif" width="35" height="35" alt="dance"> I enjoy listening music 🎧 playing badminton 🏸 and traveling <img src="./travevl.gif" width="35" height="35" alt="travel">
 
-- ⚡ Fun fact: I speak 4 languages ( English, Telugu, Hindi, French )  
+- ⚡ Fun fact : I speak 4 languages ( English, Telugu, Hindi, French )  
   
 
 <br/>  
