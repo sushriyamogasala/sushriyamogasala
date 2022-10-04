@@ -126,14 +126,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast&ring=MEDIUMBLUE&currStreakLabel=AZURE&currStreakNum=Turquoise&sideLabels=AQUA&fire=GhostWhite)](https://github.com/sushriyamogasala/github-readme-streak-stats)
 
-<br>
-
 ## Peace 😌✌🏻
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l3dc3erunrmqpefw6mo7vfm2de&cover_image=true&theme=default" alt="you should be seeing my spotify recently played music"/></div>  
 
-<br/>  
 
 ## Quote for you 👀
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Randome quote for you"> </div>
