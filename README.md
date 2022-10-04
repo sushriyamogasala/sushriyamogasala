@@ -125,7 +125,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sushriyamogasala?cardType=github&theme=midnight-purple)](https://github.com/sushriyamogasala)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushriyamogasala&theme=highcontrast&ring=MEDIUMBLUE&currStreakLabel=AZURE&currStreakNum=Turquoise&sideLabels=AQUA&fire=GhostWhite)](https://github.com/sushriyamogasala/github-readme-streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia&layout=compat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushriyamogasala&theme=algolia&layout=compact)
 <br>
 
 ## Peace 😌✌🏻
