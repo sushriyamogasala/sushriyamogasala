@@ -4,7 +4,7 @@
 
 #### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" alt="hello" ></a>Stranger , <sub>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar+One&duration=3000&pause=1000&color=4F504D&multiline=true&width=155&height=30&lines=I'm++Sushriya)](https://github.com/sushriyamogasala) </sub><img src="./emoji.gif" alt="emoji" width="26" height="20"></font>
 </div>
-<br>
+
 
 ### <div align="center">I'm a full-stack developer <a href="url"><img src="./typing.gif" height="23" width="43" alt="typing" ></a> and a machine learning enthusiast 🚀</div>  
   
