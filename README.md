@@ -2,7 +2,7 @@
 
 [//]: <> (https://user-images.githubusercontent.com/104165177/190234264-fdf92076-3f79-470d-b3da-ccc4b7b0e4bf.gif)
 
-#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" alt="hello" ></a>Stranger , <sub>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar+One&duration=3000&pause=1000&color=F30B25&multiline=true&width=155&height=30&lines=I'm+++Sushriya)](https://github.com/sushriyamogasala) </sub><img src="./emoji.gif" alt="emoji" width="26" height="20"></font>
+#### <div align="center"><a href="url"><img src="./hello.gif" height="75" width="78" alt="hello" ></a>Stranger , <sub>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar+One&duration=3000&pause=1000&color=4F504D&multiline=true&width=155&height=30&lines=I'm++Sushriya)](https://github.com/sushriyamogasala) </sub><img src="./emoji.gif" alt="emoji" width="26" height="20"></font>
 </div>
 <br>
 
@@ -13,7 +13,7 @@
   
 [//]: <> (https://anubudh.com/wp-content/uploads/2021/10/20860-person-on-laptop-working-on-laptop.gif)
 <br> 
-F30B25
+
 - 🔭 I’m currently working on machine learning projects 
   
 - 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson/Lead 🛡️
@@ -137,7 +137,7 @@ F30B25
 
 ##  Activity Graph 📈
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)
+[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)](https://github.com/sushriyamogasala)
 
 #### <div align="center">Glad to see you visitors<sub><img src="./Handshake.gif" width="50" height="30" alt="handshakegif"></sub> </div>
 <div align="center">
