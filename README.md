@@ -135,9 +135,7 @@
 ## Quote for you 👀
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Randome quote for you"> </div>
 
-[//]: <> (Activity Graph)
 
-[//]: <> ([![](https://activity-graph.herokuapp.com/graph?username=sushriyamogasala&theme=xcode)](https://github.com/sushriyamogasala))
 
 #### <div align="center">Glad to see you visitors<sub><img src="./Handshake.gif" width="50" height="30" alt="handshakegif"></sub> </div>
 <div align="center">
