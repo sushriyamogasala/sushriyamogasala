@@ -14,11 +14,12 @@
 [//]: <> (https://anubudh.com/wp-content/uploads/2021/10/20860-person-on-laptop-working-on-laptop.gif)
 <br> 
 
-- 🔭 I’m currently working on machine learning projects 
   
 - 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson/Lead 🛡️
 
-- 🌱 I’m presently learning Web development and enhancing my coding skills   
+- 🌱 I’m currently working on Web development and enhancing my coding skills   
+- 
+- 🔭 I’m presently learning data science and machine learning  
  
 [//]: <> (https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif)
 [//]: <> (https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif)
