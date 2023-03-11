@@ -18,7 +18,7 @@
 - 👩🏻‍💻 [GeeksforGeeks](https://www.linkedin.com/company/geeksforgeeks-viit-student-chapter/) Student Chapter Chairperson/Lead 🛡️
 
 - 🌱 I’m currently working on Web development and enhancing my coding skills   
-- 
+ 
 - 🔭 I’m presently learning data science and machine learning  
  
 [//]: <> (https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif)
