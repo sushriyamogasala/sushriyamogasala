@@ -31,7 +31,7 @@
 - <img align="left" src="./images/letterbox.gif" width="30" height="30" alt="letterbox">  How to reach me sushriya1009@gmail.com
 
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Flask and related technologies  
   
 - <img src="./music.gif" width="35" height="35" alt="dance"> I enjoy listening music 🎧 playing badminton 🏸 and traveling <img src="./travevl.gif" width="35" height="35" alt="travel">
 
